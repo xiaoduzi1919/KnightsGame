@@ -2,7 +2,7 @@
 
 I. Project Overview
 
-KnightWeb3 is a Web3 game that combines the elements of idle games, adventure RPGs, and card games. This project aims to issue the game token KnightGlodCoin (KGC) through the zkSync Era blockchain platform, providing players with a fair, secure, and immersive gaming environment.
+A Web3 game that combines the elements of idle games, adventure RPGs, and card games. This project aims to issue the game token KnightGlodCoin (KGC) through the zkSync Era blockchain platform, providing players with a fair, secure, and immersive gaming environment.
 
 II. Game Features
 
