@@ -43,3 +43,9 @@ Market Risks: We will closely monitor market dynamics and adjust our strategies 
 VIII. Contact Information
 
 For any inquiries or suggestions, please contact our project team at [email address] or visit our official website at [website link].
+
+
+## How to Use
+
+- `npm run compile`: Compiles contracts.
+- `npm run deploy`: Deploys using script `/deploy/deploy.ts`.
